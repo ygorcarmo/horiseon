@@ -14,4 +14,4 @@ As a marketing agency , Horiseon wanted a code base that follows acessibility st
 
 This marketing website is used to efficiently find the right customers for your business, manage your business online reputation and market yourself on social media. 
 
-![page](./assets/images/screen-capture-website)
+![page](assets/images/screen-capture-website)
