@@ -1,5 +1,4 @@
 # horiseon
-# homework1
 
 **HORISEON - Marketing Agency**
 
@@ -14,4 +13,4 @@ As a marketing agency , Horiseon wanted a code base that follows acessibility st
 
 This marketing website is used to efficiently find the right customers for your business, manage your business online reputation and market yourself on social media. 
 
-![page](assets/images/screen-capture-website)
+![screen-capture-website](https://user-images.githubusercontent.com/85853539/130415054-038c353f-0b9e-4d1d-818e-44c8d6de03d1.png)
