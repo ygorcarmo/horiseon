@@ -8,7 +8,7 @@ As a html website , only installations necessary is a web browser.
 
 **Description**
 
-Semantic elements were added such as <header>, <footer>, <section>, and <nav>. The HTML elements follow a logical structure, all icons and images have an accessible alt attribute. Furthermore, all heading attributes fall in sequential order, the title element is concise and descriptive, comments were added to styles.css and dulpicated codes were removed. 
+Semantic elements were added such as header, footer, section, and nav. The HTML elements follow a logical structure, all icons and images have an accessible alt attribute. Furthermore, all heading attributes fall in sequential order, the title element is concise and descriptive, comments were added to styles.css and dulpicated codes were removed. 
  
 **Website screenshot**
  
